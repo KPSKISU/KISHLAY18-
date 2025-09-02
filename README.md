@@ -32,7 +32,6 @@
 
 ## **📝 Github Stats:**
 ![Dev's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KISHLAY18&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KISHLAY18&layout=compact&theme=dark&hide_progress=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=KISHLAY18&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--## **:memo:LeetCode Stats:**
